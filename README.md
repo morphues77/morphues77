@@ -1,4 +1,4 @@
-# 🛡️ Kabilan's Cybersecurity Portfolio
+# 🛡️ Morphues77's Cybersecurity Portfolio
 
 Welcome to my professional portfolio!  
 I am a **SOC Analyst & Cybersecurity Enthusiast** with hands‑on experience in threat detection, incident response, and building cinematic dashboards for security operations.
