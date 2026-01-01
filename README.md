@@ -47,15 +47,9 @@ I am a **SOC Analyst & Cybersecurity Enthusiast** with hands‑on experience in 
 
 ---
 
-## 📄 Resume
-You can view or download my resume here: [Resume.pdf](./resume.pdf)
-
----
-
 ## 📬 Contact
-- 📧 Email: yourname@email.com  
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 💻 GitHub: [github.com/username](https://github.com/username)  
+- 📧 Email: morphues77@gmail.com 
+
 
 ---
 
