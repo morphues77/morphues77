@@ -28,8 +28,6 @@ I am a **SOC Analyst & Cybersecurity Enthusiast** with hands‑on experience in 
 - **Incident Response Dashboard** → Hacker‑themed GUI for real‑time monitoring  
 - **Linux Branding Setup** → Custom terminal with ASCII art and shell prompts  
 
-👉 Explore my projects in the [Projects](./index.html#projects) section of the portfolio site.
-
 ---
 
 ## 🎯 Community & Leadership
