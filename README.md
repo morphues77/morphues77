@@ -25,8 +25,8 @@ I am a **SOC Analyst & Cybersecurity Enthusiast** with hands‑on experience in 
 
 ## 🧪 Projects
 - **Phishing Detection Lab** → Simulated phishing attacks with SIEM alerts and dashboards  
-- **Incident Response Dashboard** → Hacker‑themed GUI for real‑time monitoring  
-- **Linux Branding Setup** → Custom terminal with ASCII art and shell prompts  
+- **FaceRecognition_Attendance_masters-1** → Practical AI project for attendance automation.
+- **- AIDE-learning** → Research-grade AI e-learning system, IEEE-published.
 
 ---
 
