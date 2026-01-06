@@ -34,14 +34,12 @@ I am a **SOC Analyst & Cybersecurity Enthusiast** with hands‑on experience in 
 - Vice President – Dridexploit Club  
 - Organizer – Sandbox Community  
 - Campus Ambassador – Shardeum  
-- Hackathon participant & mentor  
 
 ---
 
 ## 📜 Certifications
 - EC‑Council Certified SOC Analyst (CSA)  
 - CICSA – Redteam Hacker Academy  
-- B.Tech in Information Technology  
 
 ---
 
