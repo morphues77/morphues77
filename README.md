@@ -6,6 +6,6 @@
 > Tools: Splunk, Wireshark, Nmap, Nessus, OpenVAS
 > OS: Linux (BlackArch, Kali, Ubuntu) + Windows Server
 > Scripting: Python | Bash | PowerShell
-LOIC-DOS-Simulation        :: Stress-testing lab
-Face Recognition Attendance :: AI-powered attendance system
-[SESSION CLOSED] :: Security is a mindset.
+>Projects In Repo
+
+##[SESSION CLOSED] :: Security is a mindset.
