@@ -6,6 +6,5 @@
 > Tools: Splunk, Wireshark, Nmap, Nessus, OpenVAS
 > OS: Linux (BlackArch, Kali, Ubuntu) + Windows Server
 > Scripting: Python | Bash | PowerShell
->Projects In Repo
 
-##[SESSION CLOSED] :: Security is a mindset.
+>>[SESSION CLOSED] :: Security is a mindset.
