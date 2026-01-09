@@ -1,5 +1,6 @@
 ## >> whoami
->Kabilan
+>Kabilan ![Profile Views](https://komarev.com/ghpvc/?username=morphues77&color=green)
+
 ```bash
 > SOC Analyst | Cybersecurity Engineer
 > Threat Detection | Incident Response | SIEM | IDS/IPS
@@ -8,5 +9,3 @@
 > Scripting: Python | Bash | PowerShell
 
 >>[SESSION CLOSED] :: Security is a mindset.
-
-![Profile Views](https://komarev.com/ghpvc/?username=morphues77&color=green)
